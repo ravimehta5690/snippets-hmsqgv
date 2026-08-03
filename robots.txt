@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ravimehta5690.github.io/snippets-hmsqgv/sitemap.xml
